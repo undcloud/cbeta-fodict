@@ -7,8 +7,8 @@ Buddhist Dictionary Database Statistics
   Size: 6.30 MB
   Entries: 31,587
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/A.现代综合辞典 | v1
-  Key Script: 简繁混合
-  Value Script: 简繁混合
+  Key Script: 简体
+  Value Script: 简体
   Format: standard
 
 002.cyx-j
@@ -16,8 +16,8 @@ Buddhist Dictionary Database Statistics
   Size: 0.71 MB
   Entries: 6,248
   Metadata: N/A (.ini 未提供)
-  Key Script: 简繁混合
-  Value Script: 简繁混合
+  Key Script: 简体
+  Value Script: 简体
   Format: standard
 
 003.zgfj-j
@@ -25,7 +25,7 @@ Buddhist Dictionary Database Statistics
   Size: 1.94 MB
   Entries: 320
   Metadata: N/A (.ini 未提供)
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -34,7 +34,7 @@ Buddhist Dictionary Database Statistics
   Size: 2.40 MB
   Entries: 8,775
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -43,8 +43,8 @@ Buddhist Dictionary Database Statistics
   Size: 0.41 MB
   Entries: 1,084
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
-  Key Script: 简繁混合
-  Value Script: 简繁混合
+  Key Script: 简体
+  Value Script: 简体
   Format: standard
 
 006.fxcdtb-j
@@ -52,7 +52,7 @@ Buddhist Dictionary Database Statistics
   Size: 0.66 MB
   Entries: 1,040
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -70,8 +70,8 @@ Buddhist Dictionary Database Statistics
   Size: 1.05 MB
   Entries: 1,505
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/D.语言类辞典 | v1
-  Key Script: 简繁混合
-  Value Script: 简繁混合
+  Key Script: 简体
+  Value Script: 简体
   Format: standard
 
 009.faxiang-j
@@ -79,7 +79,7 @@ Buddhist Dictionary Database Statistics
   Size: 5.88 MB
   Entries: 14,686
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -88,7 +88,7 @@ Buddhist Dictionary Database Statistics
   Size: 1.02 MB
   Entries: 523
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/A.现代综合辞典 | v2
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -106,7 +106,7 @@ Buddhist Dictionary Database Statistics
   Size: 0.63 MB
   Entries: 1,515
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v2
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -115,7 +115,7 @@ Buddhist Dictionary Database Statistics
   Size: 0.09 MB
   Entries: 59
   Metadata: N/A (.ini 未提供)
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -124,8 +124,8 @@ Buddhist Dictionary Database Statistics
   Size: 0.03 MB
   Entries: 120
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
-  Key Script: 简繁混合
-  Value Script: 简繁混合
+  Key Script: 简体
+  Value Script: 简体
   Format: standard
 
 015.syfy-j
@@ -133,7 +133,7 @@ Buddhist Dictionary Database Statistics
   Size: 0.33 MB
   Entries: 565
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -142,7 +142,7 @@ Buddhist Dictionary Database Statistics
   Size: 0.67 MB
   Entries: 1,010
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -151,7 +151,7 @@ Buddhist Dictionary Database Statistics
   Size: 0.48 MB
   Entries: 1,201
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -169,7 +169,7 @@ Buddhist Dictionary Database Statistics
   Size: 0.20 MB
   Entries: 135
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -178,8 +178,8 @@ Buddhist Dictionary Database Statistics
   Size: 0.39 MB
   Entries: 2,510
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
-  Key Script: 简繁混合
-  Value Script: 简繁混合
+  Key Script: 简体
+  Value Script: 简体
   Format: standard
 
 021.yzzj-j
@@ -196,7 +196,7 @@ Buddhist Dictionary Database Statistics
   Size: 0.18 MB
   Entries: 671
   Metadata: N/A (.ini 未提供)
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -205,7 +205,7 @@ Buddhist Dictionary Database Statistics
   Size: 2.75 MB
   Entries: 15,838
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -214,7 +214,7 @@ Buddhist Dictionary Database Statistics
   Size: 1.12 MB
   Entries: 1,709
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -223,7 +223,7 @@ Buddhist Dictionary Database Statistics
   Size: 2.18 MB
   Entries: 3,262
   Metadata: 西莲净苑出版社 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
-  Key Script: 简繁混合
+  Key Script: 简体
   Value Script: 简体
   Format: standard
 
@@ -232,8 +232,8 @@ Buddhist Dictionary Database Statistics
   Size: 3.34 MB
   Entries: 9,377
   Metadata: 法鼓佛教学院 | 简体中文 | 辞典/简体/D.语言类辞典 | v1
-  Key Script: 简繁混合
-  Value Script: 简繁混合
+  Key Script: 简体
+  Value Script: 简体
   Format: standard
 
 027.wyhbjy-j
@@ -241,8 +241,8 @@ Buddhist Dictionary Database Statistics
   Size: 0.25 MB
   Entries: 1,069
   Metadata: N/A (.ini 未提供)
-  Key Script: 简繁混合
-  Value Script: 简繁混合
+  Key Script: 简体
+  Value Script: 简体
   Format: standard
 
 028.fhchb-j
@@ -250,8 +250,8 @@ Buddhist Dictionary Database Statistics
   Size: 3.46 MB
   Entries: 22,879
   Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/D.语言类辞典 | v2
-  Key Script: 简繁混合
-  Value Script: 简繁混合
+  Key Script: 简体
+  Value Script: 简体
   Format: standard
 
 ================================================================================
