@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "release": "1.0.0",
-  "generated_at": "2026-10-27T05:39:14Z",
+  "generated_at": "2026-10-27T07:05:23Z",
   "base_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0",
   "dictionary_count": 28,
   "dictionaries": [
@@ -198,7 +198,7 @@
       "file": "015.syfy-j.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/015.syfy-j.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "016.tiantai-j",
@@ -211,7 +211,7 @@
       "file": "016.tiantai-j.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/016.tiantai-j.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "017.apdm-j",
@@ -250,7 +250,7 @@
       "file": "019.fjqiwu-j.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/019.fjqiwu-j.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "020.ztsy-j",
@@ -289,7 +289,7 @@
       "file": "022.ssyl-j.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/022.ssyl-j.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "023.zcfj-j",
@@ -354,7 +354,7 @@
       "file": "027.wyhbjy-j.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/027.wyhbjy-j.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "028.fhchb-j",
