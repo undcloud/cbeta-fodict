@@ -1,0 +1,266 @@
+佛典辞典数据库统计总结
+Buddhist Dictionary Database Statistics
+================================================================================
+
+001.dfb-j
+  Name: 佛学大辞典(丁福保 编)
+  Size: 6.30 MB
+  Entries: 31,587
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/A.现代综合辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简繁混合
+  Format: standard
+
+002.cyx-j
+  Name: 禅源诸诠集 *
+  Size: 0.71 MB
+  Entries: 6,248
+  Metadata: N/A (.ini 未提供)
+  Key Script: 简繁混合
+  Value Script: 简繁混合
+  Format: standard
+
+003.zgfj-j
+  Name: 中国佛教 *
+  Size: 1.94 MB
+  Entries: 320
+  Metadata: N/A (.ini 未提供)
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+004.szfs-j
+  Name: 三藏法数(明·一如等 撰)
+  Size: 2.40 MB
+  Entries: 8,775
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+005.fymyj-j
+  Name: 翻译名义集(南宋·法云 著)
+  Size: 0.41 MB
+  Entries: 1,084
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简繁混合
+  Format: standard
+
+006.fxcdtb-j
+  Name: 佛学次第统编(杨卓 编)
+  Size: 0.66 MB
+  Entries: 1,040
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+007.ce-ec-ee-j
+  Name: 英汉-汉英-英英佛学词汇(中华佛典宝库 编)
+  Size: 6.65 MB
+  Entries: 17,367
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/D.语言类辞典 | v1
+  Key Script: Latin/English
+  Value Script: Chinese (neutral)
+  Format: standard
+
+008.theravada-j
+  Name: 巴英南传佛教辞典(Nyanaponika 编)
+  Size: 1.05 MB
+  Entries: 1,505
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/D.语言类辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简繁混合
+  Format: standard
+
+009.faxiang-j
+  Name: 法相辞典(朱芾煌编)
+  Size: 5.88 MB
+  Entries: 14,686
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+010.bkqszl-j
+  Name: 中国大百科全书(摘录)
+  Size: 1.02 MB
+  Entries: 523
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/A.现代综合辞典 | v2
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+011.fjrwz-j
+  Name: 佛教人物传 V2.1(中华佛典宝库 编)
+  Size: 13.32 MB
+  Entries: 6,008
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v2
+  Key Script: Chinese (neutral)
+  Value Script: Chinese (neutral)
+  Format: categories + full-text entries
+
+012.weishi-j
+  Name: 唯识名词白话新解(于凌波居士著)
+  Size: 0.63 MB
+  Entries: 1,515
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v2
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+013.fajie-j
+  Name: 法界次第初门 *
+  Size: 0.09 MB
+  Entries: 59
+  Metadata: N/A (.ini 未提供)
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+014.famen-j
+  Name: 法门名义集(唐·李师政 撰)
+  Size: 0.03 MB
+  Entries: 120
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简繁混合
+  Format: standard
+
+015.syfy-j
+  Name: 俗语佛源(中国佛教文化研究所编)
+  Size: 0.33 MB
+  Entries: 565
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+016.tiantai-j
+  Name: 天台教学辞典(释慧岳监修，释会旻主编)
+  Size: 0.67 MB
+  Entries: 1,010
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+017.apdm-j
+  Name: 阿毗达磨辞典(中华佛典宝库 编)
+  Size: 0.48 MB
+  Entries: 1,201
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+018.chanzongyulu-j
+  Name: 禅宗语录辞典 V1.3 (中华佛典宝库编)
+  Size: 21.80 MB
+  Entries: 20,561
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
+  Key Script: Chinese (neutral)
+  Value Script: Chinese (neutral)
+  Format: categories + full-text entries
+
+019.fjqiwu-j
+  Name: 佛教器物简述(中华佛典宝库编)
+  Size: 0.20 MB
+  Entries: 135
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+020.ztsy-j
+  Name: 祖庭事苑(北宋·陈善卿 编)
+  Size: 0.39 MB
+  Entries: 2,510
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简繁混合
+  Format: standard
+
+021.yzzj-j
+  Name: 阅藏知津(蕅益大师著)
+  Size: 0.63 MB
+  Entries: 1,225
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+022.ssyl-j
+  Name: 四十二章经疏 *
+  Size: 0.18 MB
+  Entries: 671
+  Metadata: N/A (.ini 未提供)
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+023.zcfj-j
+  Name: 藏传佛教辞典(中华佛典宝库编)
+  Size: 2.75 MB
+  Entries: 15,838
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+024.chanlinxqj-j
+  Name: 禅林象器笺(日·无著道忠撰)
+  Size: 1.12 MB
+  Entries: 1,709
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+025.nanshanlv-j
+  Name: 南山律学辞典
+  Size: 2.18 MB
+  Entries: 3,262
+  Metadata: 西莲净苑出版社 | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简体
+  Format: standard
+
+026.fymydj-j
+  Name: 翻译名言大集
+  Size: 3.34 MB
+  Entries: 9,377
+  Metadata: 法鼓佛教学院 | 简体中文 | 辞典/简体/D.语言类辞典 | v1
+  Key Script: 简繁混合
+  Value Script: 简繁混合
+  Format: standard
+
+027.wyhbjy-j
+  Name: 五译合璧集 *
+  Size: 0.25 MB
+  Entries: 1,069
+  Metadata: N/A (.ini 未提供)
+  Key Script: 简繁混合
+  Value Script: 简繁混合
+  Format: standard
+
+028.fhchb-j
+  Name: 梵汉词汇表
+  Size: 3.46 MB
+  Entries: 22,879
+  Metadata: 中华佛典宝库 | 简体中文 | 辞典/简体/D.语言类辞典 | v2
+  Key Script: 简繁混合
+  Value Script: 简繁混合
+  Format: standard
+
+================================================================================
+Total: 28 dictionaries | 28 with .dat | 172,849 entries | 78.86 MB (82,688,552 bytes)
+
+Notes:
+  - 002/003/013/022/027 的 .ini 未包含 name/vendor/language/category/version；
+    名称按词条内容与目录标识补全（带 *），Metadata 标为 N/A。
+  - 007.ce-ec-ee-j 当前有 fodict.dat，统计为 17,367 条；旧版总结中的 “idx-only” 说明已不适用。
+  - 011.fjrwz-j 与 018.chanzongyulu-j 的格式为 categories + full-text entries。
+  - Entries 与 Size 取自各词典 .ini 的 [statistics] 段；Size 为 fodict.dat 大小。
+  - data/ 为扩展数据目录，不是词典，不计入统计。

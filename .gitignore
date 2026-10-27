@@ -1,5 +1,12 @@
+# 默认忽略全部，只保留清单和字典说明
+*
+!*/
+!.gitignore
+!DICTIONARY_SUMMARY.txt
+!fodict_manifest.json
+!*.ini
+
+# 这些目录整体忽略，避免误收录里面的 .ini
+/extracted/
 /release/
-*.zip
-*.part
-.env
-__pycache__/
+/fodict/data/
