@@ -5,6 +5,7 @@
 !DICTIONARY_SUMMARY.txt
 !fodict_manifest.json
 !*.ini
+!readme.md
 
 # 这些目录整体忽略，避免误收录里面的 .ini
 /extracted/
