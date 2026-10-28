@@ -380,7 +380,7 @@
       "file": "029.ddbc-abhisamacarika.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/029.ddbc-abhisamacarika.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "030.dila-dingfubao",
@@ -393,7 +393,7 @@
       "file": "030.dila-dingfubao.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/030.dila-dingfubao.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "031.ddbc-hopkins",
@@ -406,7 +406,7 @@
       "file": "031.ddbc-hopkins.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/031.ddbc-hopkins.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "032.ddbc-kumarajiva",
@@ -419,7 +419,7 @@
       "file": "032.ddbc-kumarajiva.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/032.ddbc-kumarajiva.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "033.ddbc-lokaksema",
@@ -432,7 +432,7 @@
       "file": "033.ddbc-lokaksema.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/033.ddbc-lokaksema.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "034.ddbc-pali-chin",
@@ -445,7 +445,7 @@
       "file": "034.ddbc-pali-chin.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/034.ddbc-pali-chin.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "035.ddbc-tibskrit",
@@ -458,7 +458,7 @@
       "file": "035.ddbc-tibskrit.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/035.ddbc-tibskrit.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "036.ddbc-dharmaraksa",
@@ -471,7 +471,7 @@
       "file": "036.ddbc-dharmaraksa.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/036.ddbc-dharmaraksa.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "037.dzdl",
@@ -484,7 +484,7 @@
       "file": "037.dzdl.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/037.dzdl.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "038.ddbc-mahavyutpatti",
@@ -497,7 +497,7 @@
       "file": "038.ddbc-mahavyutpatti.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/038.ddbc-mahavyutpatti.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "039.ddbc-nanshanlu",
@@ -510,7 +510,7 @@
       "file": "039.ddbc-nanshanlu.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/039.ddbc-nanshanlu.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "040.ddbc-soothill-hodous",
@@ -523,7 +523,7 @@
       "file": "040.ddbc-soothill-hodous.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/040.ddbc-soothill-hodous.zip",
       "bundled": false,
-      "available": false
+      "available": true
     },
     {
       "id": "041.ddbc-pentaglot",
@@ -536,7 +536,7 @@
       "file": "041.ddbc-pentaglot.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/041.ddbc-pentaglot.zip",
       "bundled": false,
-      "available": false
+      "available": true
     }
   ]
 }
