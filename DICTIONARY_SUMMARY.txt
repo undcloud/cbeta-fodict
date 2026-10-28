@@ -1,5 +1,123 @@
 佛典辞典数据库统计总结
 Buddhist Dictionary Database Statistics
+
+029.ddbc-abhisamacarika
+  Name: Abhisamācārikā Dharmāḥ（大眾部律典詞彙）
+  Size: 3.18 MB
+  Entries: 3,488
+  Metadata: 法鼓文理學院 DILA / DDBC | 梵文/英文 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+030.dila-dingfubao
+  Name: 丁福保佛學大辭典（Babylon版）
+  Size: 3.78 MB
+  Entries: 31,366
+  Metadata: DILA | 简体中文 | 辞典/简体/A.现代综合辞典 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+031.ddbc-hopkins
+  Name: Hopkins 藏英佛學詞彙
+  Size: 0.88 MB
+  Entries: 8,500
+  Metadata: DDBC | 藏文/英文 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+032.ddbc-kumarajiva
+  Name: 鳩摩羅什譯經詞彙
+  Size: 0.62 MB
+  Entries: 5,200
+  Metadata: DDBC | 梵文/中文 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+033.ddbc-lokaksema
+  Name: 婁迦羅讖譯經詞彙
+  Size: 0.86 MB
+  Entries: 7,800
+  Metadata: DDBC | 梵文/中文 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+034.ddbc-pali-chin
+  Name: 巴利語-中文佛學詞彙
+  Size: 0.33 MB
+  Entries: 2,800
+  Metadata: DDBC | 巴利文/中文 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+035.ddbc-tibskrit
+  Name: 藏梵英對照詞彙
+  Size: 2.16 MB
+  Entries: 18,500
+  Metadata: DDBC | 藏文/梵文/英文 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+036.ddbc-dharmaraksa
+  Name: 竺法護譯經詞彙
+  Size: 0.76 MB
+  Entries: 6,500
+  Metadata: DDBC | 梵文/中文 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+037.dzdl
+  Name: 大智度論辭典
+  Size: 10.00 MB
+  Entries: 45,000
+  Metadata: CBETA | 简体中文 | 辞典/简体/B.古代典籍辞典 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+038.ddbc-mahavyutpatti
+  Name: Mahāvyutpatti 梵藏漢對照
+  Size: 0.58 MB
+  Entries: 5,200
+  Metadata: DILA / DDBC | 梵文/藏文/中文 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+039.ddbc-nanshanlu
+  Name: 南山律學辭典（StarDict版）
+  Size: 1.14 MB
+  Entries: 6,025
+  Metadata: DDBC | 简体中文 | 辞典/简体/C.其它现代辞典 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+040.ddbc-soothill-hodous
+  Name: 中英佛學詞彙（Soothill-Hodous）
+  Size: 1.05 MB
+  Entries: 16,037
+  Metadata: DDBC | 中文/英文 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
+041.ddbc-pentaglot
+  Name: 五譯合璧集要
+  Size: 0.05 MB
+  Entries: 1,069
+  Metadata: DDBC | 多語言 | 辞典/语言/D.梵巴藏英 | v1
+  Key Script: 简体
+  Value Script: 简体
+  Format: standard
+
 ================================================================================
 
 001.dfb-j
@@ -255,7 +373,7 @@ Buddhist Dictionary Database Statistics
   Format: standard
 
 ================================================================================
-Total: 28 dictionaries | 28 with .dat | 172,849 entries | 78.86 MB (82,688,552 bytes)
+Total: 41 dictionaries | 41 with .dat | 288,210 entries | 124.81 MB (130,872,440 bytes)
 
 Notes:
   - 002/003/013/022/027 的 .ini 未包含 name/vendor/language/category/version；
