@@ -371,7 +371,7 @@
     },
     {
       "id": "029.ddbc-abhisamacarika",
-      "name": "Abhisamācārikā Dharmāḥ（大眾部律典詞彙）",
+      "name": "Abhisamācārikā Dharmāḥ（大眾部律典詞彙） [繁體]",
       "version": "1",
       "entries": 3488,
       "dat_size": 3328994,
@@ -384,7 +384,7 @@
     },
     {
       "id": "030.dila-dingfubao",
-      "name": "丁福保佛學大辭典（DILA 版）",
+      "name": "丁福保佛學大辭典（DILA 版） [繁體]",
       "version": "1",
       "entries": 31366,
       "dat_size": 5977324,
@@ -397,7 +397,7 @@
     },
     {
       "id": "031.ddbc-hopkins",
-      "name": "藏梵英佛學辭典（Hopkins）",
+      "name": "藏梵英佛學辭典（Hopkins） [繁體]",
       "version": "1",
       "entries": 18382,
       "dat_size": 6570258,
@@ -410,7 +410,7 @@
     },
     {
       "id": "032.ddbc-kumarajiva",
-      "name": "妙法蓮華經詞典（鳩摩羅什譯）",
+      "name": "妙法蓮華經詞典（鳩摩羅什譯） [繁體]",
       "version": "1",
       "entries": 2419,
       "dat_size": 1585620,
@@ -423,7 +423,7 @@
     },
     {
       "id": "033.ddbc-lokaksema",
-      "name": "道行般若經詞典",
+      "name": "道行般若經詞典 [繁體]",
       "version": "1",
       "entries": 1791,
       "dat_size": 3421844,
@@ -436,7 +436,7 @@
     },
     {
       "id": "034.ddbc-pali-chin",
-      "name": "巴漢辭典（Buddhadatta）",
+      "name": "巴漢辭典（Buddhadatta） [繁體]",
       "version": "1",
       "entries": 10530,
       "dat_size": 910590,
@@ -449,7 +449,7 @@
     },
     {
       "id": "035.ddbc-tibskrit",
-      "name": "Tibskrit 藏梵佛學詞彙",
+      "name": "Tibskrit 藏梵佛學詞彙 [繁體]",
       "version": "1",
       "entries": 10471,
       "dat_size": 10432492,
@@ -462,7 +462,7 @@
     },
     {
       "id": "036.ddbc-dharmaraksa",
-      "name": "正法華經詞典",
+      "name": "正法華經詞典 [繁體]",
       "version": "1",
       "entries": 3408,
       "dat_size": 1941630,
@@ -475,7 +475,7 @@
     },
     {
       "id": "037.dzdl",
-      "name": "大智度論辭典",
+      "name": "大智度論辭典 [繁體]",
       "version": "1",
       "entries": 3613,
       "dat_size": 2804214,
@@ -488,7 +488,7 @@
     },
     {
       "id": "038.ddbc-mahavyutpatti",
-      "name": "翻譯名義大集（Mahāvyutpatti）",
+      "name": "翻譯名義大集（Mahāvyutpatti） [繁體]",
       "version": "1",
       "entries": 8930,
       "dat_size": 4446374,
@@ -501,7 +501,7 @@
     },
     {
       "id": "039.ddbc-nanshanlu",
-      "name": "南山律學辭典（DDBC 版）",
+      "name": "南山律學辭典（DDBC 版） [繁體]",
       "version": "1",
       "entries": 3218,
       "dat_size": 2417354,
@@ -514,7 +514,7 @@
     },
     {
       "id": "040.ddbc-soothill-hodous",
-      "name": "漢英梵佛學詞典（Soothill-Hodous）",
+      "name": "漢英梵佛學詞典（Soothill-Hodous） [繁體]",
       "version": "1",
       "entries": 16689,
       "dat_size": 3942622,
@@ -527,7 +527,7 @@
     },
     {
       "id": "041.ddbc-pentaglot",
-      "name": "五譯合璧集要（Pentaglot）",
+      "name": "五譯合璧集要（Pentaglot） [繁體]",
       "version": "1",
       "entries": 1056,
       "dat_size": 404572,
