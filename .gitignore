@@ -6,8 +6,14 @@
 !fodict_manifest.json
 !*.ini
 !readme.md
+!tools/
+!tools/*
+!tools/**
 
 # 这些目录整体忽略，避免误收录里面的 .ini
 /extracted/
 /release/
 /fodict/data/
+
+# Python cache
+__pycache__/
