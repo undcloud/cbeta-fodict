@@ -158,8 +158,8 @@
       "updated_at": "2026-10-27T05:03:15Z",
       "file": "012.weishi-j.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/012.weishi-j.zip",
-      "bundled": true,
-      "available": false
+      "bundled": false,
+      "available": true
     },
     {
       "id": "013.fajie-j",
@@ -171,8 +171,8 @@
       "updated_at": "2026-10-27T05:03:15Z",
       "file": "013.fajie-j.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/013.fajie-j.zip",
-      "bundled": true,
-      "available": false
+      "bundled": false,
+      "available": true
     },
     {
       "id": "014.famen-j",
@@ -184,8 +184,8 @@
       "updated_at": "2026-10-27T05:03:16Z",
       "file": "014.famen-j.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/014.famen-j.zip",
-      "bundled": true,
-      "available": false
+      "bundled": false,
+      "available": true
     },
     {
       "id": "015.syfy-j",
@@ -392,7 +392,7 @@
       "updated_at": "2026-10-28T05:15:29Z",
       "file": "030.dila-dingfubao.zip",
       "download_url": "https://gitee.com/undclouds/cbeta-fodict/releases/download/1.0.0/030.dila-dingfubao.zip",
-      "bundled": false,
+      "bundled": true,
       "available": true
     },
     {
